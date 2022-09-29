@@ -7,14 +7,14 @@
     font-size: medium;
     font-weight: bolder;
   }
-  .navstyling{
+  .navs_tyling{
   
   border: 1px double #2D2D34;
   background-color: #ff6f61;
   border-radius: 20px;
   min-height: 70px;
   }
-  .homestyle{
+  .home_style{
     border:1px solid rgb(6, 132, 118);
     min-height:80px;
     border-radius:25px;
